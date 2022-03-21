@@ -27,5 +27,7 @@ Helping the School Board to update student scores in the school district databas
 
 ## Summary
 The changes includes:<br />
-- The removal of 9th grader math and reading scores of Thomas High School in the student data file
-- The re-calculation of Thomas High School average test scores and percentage of student passing both the math and reading test through only including 10th-12th graders in student population
+- The removal of 9th grader math and reading scores of Thomas High School in the student data file.
+- Isolate 10th-12th graders and calculate new student number for Thomas High Schhol.
+- Recalculate Thomas High School average test scores and percentage of student passing both the math and reading test with new total student number.
+- Replacing the values in the automated school summary file with new calculated results.
